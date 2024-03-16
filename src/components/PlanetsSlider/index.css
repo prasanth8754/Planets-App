@@ -1,0 +1,15 @@
+.bg-cont {
+  background-color: rgba(18, 36, 53, 0.795);
+  min-height: 100vh;
+  height: 100%;
+}
+
+.slider-container {
+  padding: 50px;
+}
+
+.main-heading {
+  color: #05acff;
+  font-size: 30px;
+  text-align: center;
+}
